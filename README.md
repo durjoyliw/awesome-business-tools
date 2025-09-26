@@ -677,4 +677,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me [@example](https://twitter.com/example) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me durjoy.das1@outlook.com or open an issue on GitHub.
