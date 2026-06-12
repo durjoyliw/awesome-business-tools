@@ -402,6 +402,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Legal tools and compliance resources.*
 
+* [LLC Class](https://llcclass.com/wyoming) - Wyoming LLC registration for non-US founders. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — built for solo founders outside the US to start accepting Stripe and Mercury payments. From $199.
 * [Clerky](https://clerky.com) - Online legal paperwork for startups and law firms.
 * [DocuSign](https://docusign.com) - Electronic signature and document management.
 * [LawGeex](https://lawgeex.com) - AI-powered contract review platform.
