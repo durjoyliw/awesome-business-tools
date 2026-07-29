@@ -81,6 +81,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Motion App](https://usemotion.com) - AI-powered task scheduling and focus management.
 * [PIXIU](https://github.com/chancefocus/PIXIU) - Financial large language model with comprehensive evaluation.
 * [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent LLM financial trading framework.
+* [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for small businesses; 24/7 call answering, appointment booking, lead capture, and after-hours coverage.
 
 ## Analytics & Business Intelligence
 
