@@ -76,6 +76,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Playground for LLMs and NLP in Finance.
 * [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - Open-source AI agent platform for financial analysis.
 * [GrackerAI](https://gracker.ai/) - AI-powered content analysis and optimization.
+* [IdeaHunter](https://ideahunter.today/) - AI research for finding demand-backed app and micro-SaaS ideas.
 * [LogicBalls](https://logicballs.com/) - AI-powered writing assistant for business content.
 * [MarS](https://github.com/microsoft/MarS) - Financial market simulation engine powered by generative AI.
 * [Motion App](https://usemotion.com) - AI-powered task scheduling and focus management.
