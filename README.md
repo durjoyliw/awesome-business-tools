@@ -66,6 +66,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [QuickBooks](https://quickbooks.intuit.com) - Small business accounting software by Intuit.
 * [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) - Simple and elegant invoicing solution.
 * [Stripe](https://stripe.com) - Complete payments platform for internet businesses.
+* [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-business-tools-v1) for white-label PDFs, batch CLI, and templates.
 * [Xero](https://xero.com) - Beautiful cloud-based accounting software.
 
 ## AI & Machine Learning for Business
