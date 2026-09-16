@@ -57,7 +57,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Beancount](https://github.com/beancount/beancount) - Double-entry bookkeeping language for plain text accounting.
 * [Bill.com](https://bill.com) - Business payments and cash flow management platform.
 * [BoxBilling](https://github.com/boxbilling/boxbilling) - Billing, client and order management software.
-* [BusinessOS](https://businessos.biz) - Private, offline-first business platform with encrypted invoicing, expenses, and cash flow forecasting. Includes [40 free calculator tools](https://businessos.biz/tools/) (VAT, GST, MRR, CAC, LTV) with [no signup](https://github.com/ytinsta1741-ops/free-business-tools).
+* [BusinessOS](https://businessos.biz) - Private, offline-first business platform with encrypted invoicing, expenses, and cash flow forecasting. Voice-to-invoice in 3 seconds. WhatsApp send. Free during limited early access.
 * [Crater](https://github.com/crater-invoice/crater) - Open source invoicing solution for individuals & businesses.
 * [Fava](https://github.com/beancount/fava) - Web interface for Beancount with focus on features and usability.
 * [FreshBooks](https://freshbooks.com) - Cloud accounting software for small businesses.
