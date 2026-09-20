@@ -53,6 +53,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Libraries and tools for accounting, invoicing, and financial management.*
 
 * [Akaunting](https://github.com/akaunting/akaunting) - Online accounting software for small businesses and freelancers.
+* [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser freelance invoice, quote, timesheet, weekly status report, and milestone tools (MIT, no signup).
 * [Apache Fineract](https://github.com/apache/fineract) - Core banking solution for financial institutions.
 * [Beancount](https://github.com/beancount/beancount) - Double-entry bookkeeping language for plain text accounting.
 * [Bill.com](https://bill.com) - Business payments and cash flow management platform.
