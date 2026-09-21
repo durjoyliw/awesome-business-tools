@@ -308,6 +308,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [SAP Business One](https://sap.com/products/business-one.html) - ERP for small and midsize businesses.
 * [Tryton](https://tryton.org) - Three-tier high-level general purpose application platform.
 
+## Field Service & Trade Operations
+
+*Software and resources for field-service / home-service trade businesses (HVAC, plumbing, electrical, etc.).*
+
+* [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) - Independent Jobber vs Housecall Pro comparison (features + modeled true cost) for trade shops shortlisting FSM platforms.
+
 ## Financial Data & Trading
 
 *Tools for financial data analysis and algorithmic trading.*
