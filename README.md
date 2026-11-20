@@ -73,6 +73,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *AI-powered tools for business automation and decision making.*
 
 * [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
+* [DDScore](https://www.ddscore.ai/) - Reviews private-company documents against each other and public sources to flag evidence gaps and guide first-pass due diligence.
 * [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Playground for LLMs and NLP in Finance.
 * [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - Open-source AI agent platform for financial analysis.
 * [GrackerAI](https://gracker.ai/) - AI-powered content analysis and optimization.
